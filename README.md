@@ -1,0 +1,1 @@
+This repository contains assets and code for a Unity OpenGL project called Cloth Simulator. This project generates a simple node-based grid cloth with simulated physics, allowing for gravity adjustment and cutting of the connections between nodes.
